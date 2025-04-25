@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+  <name>googlecustomerreviews</name>
+  <displayName>Google Customer Reviews</displayName>
+  <version>1.0.0</version>
+  <author>Nest Dream</author>
+  <tab>front_office_features</tab>
+  <name>Google Customer Reviews<name>
+  <description>Integration of Google Customer Reviews in the order confirmation page.</description>
+</module>
